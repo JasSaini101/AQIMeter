@@ -1,5 +1,4 @@
 # AQI Meter ☁
-## <a href="http://aqimeter.pythonanywhere.com/" style="font-size: 20px">View Live Demo</a>
 
 ## Description
 > View air quality, pollen, and weather statistics in 190+ countries. Designed to be easy to use for those who are interested in learning the air quality statistics in any city in the world.
@@ -35,8 +34,6 @@
     Accurate information for almost every city in the world
   </li>
 </ul>
-
-> <a href="https://docs.google.com/presentation/d/1uL1zdqib3rVWcz3U2vlHBt3_JNZM_p1F_xvAdqO4iT8/edit?usp=sharing">View about Google Slides</a>
 
 ## Machine Learning
 > AQI Meter uses a linear regression algorithm to predict future AQI values. The historical data for the past 17 hours is sent to the python backend via an AJAX call. Afterwords, the scikitlearn module for python predicts future air quality values for the next 6 hours. Then using jinja syntax provided with flask, the predictions are sent back to JavaScript to chart the data using the chartjs library.
