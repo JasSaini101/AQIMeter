@@ -1,5 +1,8 @@
 # AQI Meter ☁
 
+## Disclaimer
+> This is a **COPY** of the original repository which is under my partner's GitHub page linked here: https://github.com/ved-tiwari/AQI-Meter
+
 ## Description
 > View air quality, pollen, and weather statistics in 190+ countries. Designed to be easy to use for those who are interested in learning the air quality statistics in any city in the world.
 
